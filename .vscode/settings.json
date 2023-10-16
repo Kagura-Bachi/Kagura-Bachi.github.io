@@ -1,2 +1,6 @@
 {
+    "doki.background.enabled": true,
+    "doki.sticker.css": "z-index:0;background-position:100% 97%",
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.defaultFoldingRangeProvider": "vscode.html-language-features"
 }
